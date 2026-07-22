@@ -43,7 +43,7 @@ The complete machine learning pipeline includes data preprocessing, exploratory 
 
 ---
 
-# 🛠️ Technologies Used
+#  Technologies Used
 
 - Python
 - Pandas

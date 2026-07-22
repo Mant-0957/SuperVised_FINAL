@@ -214,6 +214,6 @@ CreditCardFraudDetection/
 
 #  Author
 
-**Mant SHerasiya**
+**Mant Sherasiya**
 
 

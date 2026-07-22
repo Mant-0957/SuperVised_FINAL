@@ -123,7 +123,7 @@ EDA included:
 
 ---
 
-#⚖️Handling Class Imbalance
+#Handling Class Imbalance
 
 Three approaches were compared:
 
